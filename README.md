@@ -26,12 +26,24 @@ AppViewer472/
 ├── AppViewer472.csproj       # Project file
 ├── Form1.cs                  # Main UI logic
 ├── Form1.Designer.cs         # Layout Ui
+├── App.config                #
+├── Form1.resx                #
+├── packages.config           #
+├── App.ico                   #
+├── Program.cs                #
+├── Properties/               # Folder
 └── bin/Release/              # Build output
 
 AppEditor472/
 ├── AppEditor472.csproj       # Project file
 ├── Form1.cs                  # Main UI logic
 ├── Form1.Designer.cs         # Layout Ui
+├── App.config                #
+├── Form1.resx                #
+├── packages.config           #
+├── App.ico                   #
+├── Program.cs                #
+├── Properties/               # Folder
 └── bin/Release/              # Build output
 ```
 
